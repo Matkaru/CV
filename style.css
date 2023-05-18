@@ -21,6 +21,7 @@ aside {
 }
 .header-secondary {
     color: #ffffff;
+    margin-bottom: 0;
 }
 .contact-link {
     color: #ffffff;
@@ -41,6 +42,8 @@ aside {
 }
 .list-secondary-item {
     color: #ffffff;
+    margin-top: 2px;
+    padding-top: 2px;
 }
 .contact-block {
     margin-top: 51px;
